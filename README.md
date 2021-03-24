@@ -1,0 +1,2 @@
+# projectdetails
+for class reports
